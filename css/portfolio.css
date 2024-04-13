@@ -191,6 +191,8 @@ img{
     justify-content: center;
     align-items: center;
     margin-top: 10px;
+  }
+  .explore .btn{
     margin-left: 16px;
   }
   .home .container .row .link-custom{
@@ -198,7 +200,7 @@ img{
     justify-content: center;
     font-size: 14px;
     padding-top: 10px;
-    margin: 10px 0px 0px 97.3875px;
+    margin: 10px auto 0px;
   }
 }
 /* End Home */
