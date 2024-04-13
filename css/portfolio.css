@@ -51,6 +51,12 @@ img{
   justify-content: center;
   border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
+@media (max-width: 480px){
+  .full-height{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
 .text-brand{
   color: var(--color-brand);
 }
